@@ -3,7 +3,7 @@
 ### 📔 I'm a self taught Frontend Developer
 
 ### About
-- 🔨 I use daily ReactJS and Python
+- 🔨 I use daily React and Python
 - 🌱 I'm currently learning TypeScript, Solidity, Python and a little bit Rust
 - 🔩 Working on Blog for open source startup
 - 🐧 Linux user
