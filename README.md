@@ -4,7 +4,7 @@
 
 ### About
 - 🔨 I use daily React and Python
-- 🌱 I'm currently learning TypeScript, Solidity, Python and a little bit Rust
+- 🌱 I'm currently learning TypeScript, Solidity and Python
 - 🐧 Linux user
 <!--
 **eKizim/eKizim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
